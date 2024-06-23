@@ -1,0 +1,38 @@
+/* Global styles */
+.datatable-container {
+  padding: 20px;
+}
+
+/* Form styles */
+.form-inline .form-group {
+  margin-right: 10px;
+}
+
+/* Table styles */
+.table {
+  background-color: #343a40; /* Dark background */
+  color: #dee2e6; /* Light text */
+}
+
+.table th,
+.table td {
+  border-color: #454d55; /* Dark border */
+}
+
+/* Button styles */
+.btn-primary,
+.btn-secondary {
+  background-color: #6f42c1; /* Purple background */
+  border-color: #6f42c1; /* Purple border */
+}
+
+.btn-primary:hover,
+.btn-secondary:hover {
+  background-color: #5a3c8d; /* Darker purple background on hover */
+  border-color: #5a3c8d; /* Darker purple border on hover */
+}
+
+.btn-secondary:disabled {
+  background-color: #868e96; /* Greyed out background for disabled state */
+  border-color: #868e96; /* Greyed out border for disabled state */
+}
