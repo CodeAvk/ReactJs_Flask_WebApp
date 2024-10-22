@@ -1,4 +1,4 @@
-# ReactJs_Flask_WebApp_Securonix
+# ReactJs_Flask_WebApp
 # React + Flask Application
 
 This is a web application built with a React front-end and a Flask back-end. The application allows users to interact with product data stored in an Excel file and supports Google Authentication for user login.
